@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Yurt kayıt sistemii", "Yurt kayıt sistemii\Yurt kayıt sistemii.vdproj", "{33726010-D70F-4F9B-A9A0-22B492123BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33726010-D70F-4F9B-A9A0-22B492123BFA}.Debug|Default.ActiveCfg = Debug
+		{33726010-D70F-4F9B-A9A0-22B492123BFA}.Debug|Default.Build.0 = Debug
+		{33726010-D70F-4F9B-A9A0-22B492123BFA}.Release|Default.ActiveCfg = Release
+		{33726010-D70F-4F9B-A9A0-22B492123BFA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB1A306-6430-4567-B19E-9C7BB385C14D}
+	EndGlobalSection
+EndGlobal

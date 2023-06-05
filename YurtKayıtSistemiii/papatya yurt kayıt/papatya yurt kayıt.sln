@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "papatya yurt kayıt", "papatya yurt kayıt\papatya yurt kayıt.vdproj", "{8CA1E747-E33E-4783-9D51-BAB035303627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA1E747-E33E-4783-9D51-BAB035303627}.Debug|Default.ActiveCfg = Debug
+		{8CA1E747-E33E-4783-9D51-BAB035303627}.Debug|Default.Build.0 = Debug
+		{8CA1E747-E33E-4783-9D51-BAB035303627}.Release|Default.ActiveCfg = Release
+		{8CA1E747-E33E-4783-9D51-BAB035303627}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9315D907-CC53-4490-8EFE-C9F72F1452A3}
+	EndGlobalSection
+EndGlobal
